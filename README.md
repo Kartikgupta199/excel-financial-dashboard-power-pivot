@@ -65,7 +65,8 @@ The dashboard focuses on revenue growth, profitability, cost efficiency, earning
 
 ## 📸 Dashboard Preview
 
-![Reliance Financial Dashboard](Screenshots/dashboard-preview.png)
+<img width="1430" height="578" alt="Reliance Industries Dashboard" src="https://github.com/user-attachments/assets/e693a18c-31b8-44c0-a418-2a991dc4d59b" />
+
 
 ---
 
